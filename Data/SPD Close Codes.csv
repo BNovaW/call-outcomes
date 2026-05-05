@@ -1,0 +1,99 @@
+Close Code,Definition
+2012,Executive Order 2012 Violation
+ DIS,Disregard
+ABAN,Abandoned Vehicle
+ACTT,Action Taken
+ACC ,Accidentally Chose New Event
+ADVI,Advised
+AID,Medical Aid EPD
+AO  ,Assisting Officer
+ARR ,Arrest
+ARU,ARU Contacted and Will Follow Up
+ASST,Assisted
+AWO ,Animal Welfare Officer
+BENT,Relayed to Benton County
+BLDS,Building Check Secure
+CANC,Cancel While Enroute
+CBCK,Caller Called Back
+CGP,Relayed to Cottage Grove
+CIT ,Parking Citation Issued
+CIV ,Civil Issue
+CLC ,Cited in Lieu of Custody
+DA,Damage
+CSO,Community Service Officer
+DDIS,Disregarded by Dispatch
+DIS ,Disregard
+DESC,Relayed to Deschutes
+DESK,Desk Officer
+DOA,Dead On Arrival
+DUP ,Duplicate Event
+EERR,Employee or Occupant Error
+EXTR,Extrication
+FALS,False Alarm
+FI  ,Field Investigation
+FIX ,Fix-It Ticket
+FUP ,Follow Up Investigation
+GOA ,Gone on Arrival
+GUN,Denied Firearm Sale
+IMP,Vehicle Impounded
+INFO,Information Only
+JCP,Relayed to Junction City
+K891,K891 Deployed
+K893,K893 Deployed
+K895,K895 Deployed
+K896,K896 Deployed
+K897,K897 Deployed
+K898,K898 Deployed
+LCSO,Relayed to Lane County Sheriff's Office
+LINN,Relayed to Linn County
+LRAP,Relayed to LRAPA
+MEDX,Med Express
+MIS,Mistaken Alarm
+MVAN,Motor Vehicle Accident - No Dispatch
+NCH ,Non Criminal Hold
+NOAT,No Action Taken
+NODA,Fire - No Damage
+NOIN,No Investigation
+NOPA,No Patient Transport
+OSP ,Relayed to Oregon State Police
+PA,Patient Trasnported
+PCHK,Patrol Check
+PCO,Relayed to Parking Control
+PCR,Send PCR Report
+PDIS,Disregarded by Patrol Supervisor
+PERS,Person Stop Only
+PRI,Desk Log Priority
+PTD,Patient Transfer Delayed
+PTOW,Private Tow
+PW,Public Works
+QOA ,Quiet On Arrival
+QOLN,Quality of Life - No Dispatch
+REFS,Refused Service - CAHOOTS
+REFU,Refused Service
+REL ,Referred to Other Agency
+REPO,Repossessed Vehicles
+REPT,Report Taken
+RSLV,Resolved
+RTO ,Returned to Owner
+SBCK,Sobriety Check
+SPX ,Suspicious Conditions - Occurred Earlier
+TAG ,Tagged Parking Cite Issued
+TEST,Test Entry
+TEU,Traffic Enforcement Unit
+THOR,UO K9 Thor Deployed
+TIC ,Juvenile Taken Into Custody
+TOW ,Vehicle Towed - Not Impounded
+TRAF,Traffic Stop Only
+TRAN,Transport Made
+UH  ,Unhoused-Related Issue
+UNFD,Unfounded
+UOPD,Relayed to University of Oregon Police
+UTC ,Uniform Traffic Citation Issued
+UTD ,Unable to Dispatch
+UTL ,Unable to Locate
+WARN,Warning
+WCB ,Caller Will Call Back
+WELC,Welfare Check Done
+WFIR,Working Fire
+XRPT,Canceled Report Number
+XUTA,Cancel Fire Unit From Call
