@@ -6,6 +6,7 @@ This is code created for a class project focused on public data analysis.
 - glob
 - seaborn
 - matplotlib
+- sklearn
 
 ## *Step 1 Data Cleaning*
 
@@ -28,6 +29,11 @@ Using pandas compute general frequencies of each variable in the closed_as colum
   Output: printed statements for the time range and how many counts of HOSPITAL or ARREST in the "closed_as" column occured by year. Also has graphs to visualize the change in counts between agencied by year. 
 
 *pt 2) Logistic Regression*
+
+necessary packages
+- from sklearn.linear_model import LogisticRegression
+- from sklearn.model_selection import train_test_split
+- from sklearn.metrics import accuracy_score
 
 - Fit a logistic regression model to estimate how agency (EPD, SPD, MCSLC, CAHOOTS) influences the likelihood of an outcome (arrest vs hospital). It is important to control for time (year/month).
 - Then, extract the odds ratio per agency, p-value and confidence interval of agency effects, and change in predicted probability by agency
