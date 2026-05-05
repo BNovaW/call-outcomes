@@ -13,22 +13,25 @@ This is code created for a class project focused on public data analysis.
 For this step there are multiple csv files loaded in and cleaned and concatinated in different ways (see Cleaning.ipynb).
 
 ### File Path
-  Project
-    - 2015-2025 Calls for Service
-        -- 2015 SPD Calls for Service.csv
-        -- 2016 SPD CAlls for Service.csv
-        ...
-    - 2015-2025 Responding Units
-        -- 2015-2025 SPD Responding Units.xlsx - 2015.csv
-        ...
-    - 2015-2025 SPD Calls with Close Codes
-        -- 2015-2025 SPD Calls with Close Codes.xlsx - 2015.csv
-        ...
-    - Eugene_CAD_data_noloc
-        -- EugeneCAD2015noloc.csv
-        -- EugeneCAD2016noloc.csv
-        ...
-    -Cleaning.ipynb
+├── MCSLC.xlsx
+├── SPD Close Codes.csv
+├── SPD Designator Notes.csv
+├── 2015-2025 Calls for Service/
+│   ├── 2015 SPD Calls for Service.csv
+│   ├── ...
+│   └── 2025 SPD Calls for Service.csv
+├── 2015-2025 Responding Units/
+│   ├── 2015-2025 SPD Responding Units.xlsx - 2015.csv
+│   ├── ...
+│   └── 2015-2025 SPD Responding Units.xlsx - 2025.csv
+├── 2015-2025 SPD Calls with Close Codes/
+│   ├── 2015-2025 SPD Calls with Close Codes.xlsx - 2015.csv
+│   ├── ...
+│   └── 2015-2025 SPD Calls with Close Codes.xlsx - 2025.csv
+└── Eugene_CAD_data_noloc/
+    ├── EugeneCAD2015noloc.csv
+    ├── ...
+    └── EugeneCAD2025noloc.csv
 
 Steps:
 - load data files
