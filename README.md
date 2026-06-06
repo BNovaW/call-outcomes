@@ -55,7 +55,7 @@ Using pandas compute general frequencies of each variable in the closed_as colum
   Input: eugene and springfield dataframes
   Output: printed statements for the time range and how many counts of HOSPITAL or ARREST in the "closed_as" column occured by year. Also has graphs to visualize the change in counts between agencied by year. 
 
-*pt 2) Logistic Regression*
+*pt 2) Logistic Regression / multinomial logistic regression*
 
 necessary packages
 - from sklearn.linear_model import LogisticRegression
@@ -66,9 +66,17 @@ necessary packages
 - Then, extract the odds ratio per agency, p-value and confidence interval of agency effects, and change in predicted probability by agency
 - Also, evaluate the models performance using classification accuracy, a confision matrix, and ROC-AUC score.
 
-*pt 3) work in progress...*
+*pt 3) Fisher Exact Test / Chi Squared Test*
 
-...
+Fisher Exact
+- Created 2x2 Tables with the variable counts
+- Ran the fisher exact test on each using from scipy.stats import fisher_exact
+
+Chi Squared
+- cross tabulated combined eugene and springfield data on "agency" and "closed_as"
+- used from scipy.stats import chi2_contingency to run the test
+- Computed residuals and compared to true value per "closed_as" value
+- Plotted results in a full bar plot, individual bar plots, and heat map
 
 *pt 4) differences in differences*
 - use the springfield data as a control against the eugene data to see if there is a statistical significance between CAHOOTS being active or not in Eugene. 
